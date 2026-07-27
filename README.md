@@ -1,2 +1,2 @@
 # Simple-Calculator
-Just a calculator
+Just a Simple calculator in C++
